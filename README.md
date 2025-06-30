@@ -34,7 +34,6 @@
 #### 📍 Stratus Tech | *Jun 2021 – Oct 2024*  
 #### 📍 Capgemini | *Dec 2016 – May 2021*  
 
-**Roles and Responsibilities**
 **GW PC Config Developer & Tester**  
 - Configured PolicyCenter for Personal Auto Line  
 - Performed functional testing and supported UAT  
