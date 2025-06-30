@@ -41,13 +41,13 @@
 
 **GW QA Automation Engineer**  
 - Automated Guidewire test cases using Java and Selenium
-- Led test design and defect tracking for Guidewire Products
+- Strengthened testing pipelines through hybrid frameworks
 - Managed dashboards and workflows in JIRA  
 - Actively participated in Agile ceremonies and team sprints
   
 **GW Quality Analyst**  
-- Automated Guidewire test cases using Java and Selenium
-- Strengthened testing pipelines through hybrid frameworks  
+- Performed functional testing and supported UAT  
+- Led test design and defect tracking for Guidewire Products
 - Delivered detailed peer reviews and status reports  
 
 ---
