@@ -10,8 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 5+ years of experience in in software testing, Guidewire configuration, and hybrid business analysis  , focused on **Guidewire Suite** (PolicyCenter, BillingCenter, ClaimCenter)
-- 🔁 Expertise in Functional, Regression, and End-to-End testing using **Selenium**, **Java**, and **TestNG**
+- 🎯 5+ years of experience on Guidewire Products -Configuration, Automation & Functional and hybrid business analysis, focused on **Guidewire Suite** (PolicyCenter, BillingCenter, ClaimCenter)
 - 📊 Currently pursuing a **Post Graduate Diploma in Data Analytics** at Humber College
 - ⚙️ Interested in transitioning into **Data Analyst** roles combining testing expertise with data-driven insights
 - 📚 Also completed a diploma in **Mobile App Development** at Cambrian College
@@ -32,8 +31,8 @@
 
 ### 🧪 Work Experience
 
-#### 📍 Stratus Tech – Frontline Insurance (USA) | *Jun 2021 – Oct 2024*  
-#### 📍 Capgemini – Direct Line Group (UK) | *May 2020 – May 2021*  
+#### 📍 Stratus Tech | *Jun 2021 – Oct 2024*  
+#### 📍 Capgemini | *Dec 2016 – May 2021*  
 
 **Roles and Responsibilities**
 **GW PC Config Developer & Tester**  
