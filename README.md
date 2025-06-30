@@ -20,9 +20,9 @@
 
 ### 🚀 Skills
 
-- **QA & Automation**: Selenium | TestNG | Functional | Regression | Web Testing  
+- **Guidewire**: PolicyCenter | BillingCenter | ClaimCenter | PCFs | Validation Rules
 - **Languages**: Java | Python | SQL | Gosu  
-- **Guidewire**: PolicyCenter | BillingCenter | ClaimCenter | PCFs | Validation Rules  
+- **QA & Automation**: Selenium | TestNG | Functional | Regression | Web Testing
 - **Frameworks**: Page Object Model (POM) | Hybrid  
 - **Tools**: Git | Jenkins | JIRA | IntelliJ | Eclipse | Excel  
 - **Data Analytics (Learning)**: Pandas | NumPy | Excel | Visualization | ML Concepts  
@@ -33,23 +33,24 @@
 ### 🧪 Work Experience
 
 #### 📍 Stratus Tech – Frontline Insurance (USA) | *Jun 2021 – Oct 2024*  
-**Senior Quality Analyst**  
-- Automated Guidewire test cases using Java and Selenium
-- Strengthened testing pipelines through hybrid frameworks  
-- Delivered detailed peer reviews and status reports  
-
 #### 📍 Capgemini – Direct Line Group (UK) | *May 2020 – May 2021*  
-**QA Automation Engineer**  
-- Automated Guidewire test cases using Java and Selenium
-- Led test design and defect tracking for Guidewire Products
-- Managed dashboards and workflows in JIRA  
-- Actively participated in Agile ceremonies and team sprints  
 
-#### 📍 Capgemini – ACG (USA) | *Dec 2016 – May 2020*  
+**Roles and Responsibilities**
 **GW PC Config Developer & Tester**  
 - Configured PolicyCenter for Personal Auto Line  
 - Performed functional testing and supported UAT  
 - Partnered with BAs to translate user stories into test plans  
+
+**QA Automation Engineer**  
+- Automated Guidewire test cases using Java and Selenium
+- Led test design and defect tracking for Guidewire Products
+- Managed dashboards and workflows in JIRA  
+- Actively participated in Agile ceremonies and team sprints
+  
+**Quality Analyst**  
+- Automated Guidewire test cases using Java and Selenium
+- Strengthened testing pipelines through hybrid frameworks  
+- Delivered detailed peer reviews and status reports  
 
 ---
 
