@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ramanadh Reddy
+# 👋 Hi, I'm Ramanadh Redy
 **QA Engineer | Guidewire Config Specialist | Aspiring Data Analyst | Hybrid BA Experience**
 
 📍 Toronto, Canada | 💼 Actively Seeking Data Analyst
