@@ -45,7 +45,7 @@
 - Managed dashboards and workflows in JIRA  
 - Actively participated in Agile ceremonies and team sprints  
 
-#### 📍 Capgemini – ACG (USA) | *Dec 2019 – May 2020*  
+#### 📍 Capgemini – ACG (USA) | *Dec 2016 – May 2020*  
 **GW PC Config Developer & Tester**  
 - Configured PolicyCenter for Personal Auto Line  
 - Performed functional testing and supported UAT  
