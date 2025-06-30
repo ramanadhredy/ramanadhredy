@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ramanadh Redy
-**QA Engineer | Guidewire Config Specialist | Aspiring Data Analyst | Hybrid BA Experience**
+**Guidewire Config Specialist | Aspiring Data Analyst | Hybrid BA Experience**
 
 📍 Toronto, Canada | 💼 Actively Seeking Data Analyst
 ✉️ ramanadhredy3@gmail.com
