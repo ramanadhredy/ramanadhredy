@@ -57,3 +57,6 @@
 - 🎓 Post Graduate Diploma in **Data Analytics**, Humber College – *Present*  
 - 🎓 Post Graduate Diploma in **Mobile App Development**, Cambrian College  
 - 🎓 B.Tech in **Information Technology**, JNTU, India  
+
+
+https://privateemail.com/
