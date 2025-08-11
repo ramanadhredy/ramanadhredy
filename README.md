@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-🎯 5+ years of experience with **Guidewire Products** (Configuration, Automation, Functional) and hybrid Business Analysis roles.  
+🎯 8+ years of experience with **Guidewire Products** (Configuration, Automation, Functional) and hybrid Business Analysis roles.  
 📊 Currently pursuing a **Post Graduate Diploma in Data Analytics** at Humber College.  
 ⚙️ Passionate about transitioning into **Data Analyst** roles, blending testing expertise with data-driven insights.  
 📚 Also completed a **Diploma in Mobile App Development** at Cambrian College.  
