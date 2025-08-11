@@ -52,11 +52,13 @@ We build tools that help insurers move faster with **real-time analytics** and *
 
 **Capgemini** (Dec 2016 – May 2021)  
 - Automated Guidewire test cases using Java & Selenium  
-- Built hybrid automation frameworks  
-- Managed dashboards & workflows in JIRA  
-- Led test design and defect tracking for Guidewire Products  
-- Delivered detailed peer reviews and reports  
-
+- Built hybrid automation frameworks to streamline testing workflows  
+- Managed dashboards & workflows in JIRA for cross-team visibility  
+- Led test design, defect tracking, and impact analysis for Guidewire Products  
+- Delivered detailed peer reviews, progress reports, and QA metrics  
+- Collaborated with stakeholders to gather, refine, and document business requirements  
+- Conducted gap analysis and proposed solutions to align system functionality with business needs  
+- Supported UAT planning and execution by creating test scenarios based on business rules
 ---
 
 ## 🎓 Education
