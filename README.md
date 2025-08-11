@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ramanadh Reddy  
-**Guidewire Config Specialist | Aspiring Data Analyst | Hybrid BA Experience**  
+**Guidewire Config Specialist | Aspiring Data Analyst | Hybrid BA Experience | Co-Founder at Moxwell**  
 
 📍 **Toronto, Canada**  
 💼 **Actively Seeking:** Data Analyst / QA / BA roles  
@@ -13,6 +13,21 @@
 📊 Currently pursuing a **Post Graduate Diploma in Data Analytics** at Humber College.  
 ⚙️ Passionate about transitioning into **Data Analyst** roles, blending testing expertise with data-driven insights.  
 📚 Also completed a **Diploma in Mobile App Development** at Cambrian College.  
+
+---
+
+## 🏢 My Startup – Moxwell
+**Co-Founder | Smart Insurance. Real Impact.**  
+
+Moxwell is reimagining insurance through **mobile-first**, **cloud-native**, and **AI-ready** solutions.  
+We build tools that help insurers move faster with **real-time analytics** and **seamless integrations**.  
+
+🔹 **Focus Areas:**  
+- Cloud-native architecture for scalability  
+- AI-powered analytics for predictive decision-making  
+- Mobile-first platforms for agents and customers  
+
+🌐 [Visit Moxwell](https://your-moxwell-link.com)  
 
 ---
 
