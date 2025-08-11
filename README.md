@@ -45,7 +45,8 @@ We build tools that help insurers move faster with **real-time analytics** and *
 
 ## 🧪 Work Experience
 
-**Stratus Tech** (Jun 2021 – Oct 2024) - Developed and maintained automation scripts to improve test coverage and reduce regression time
+**Stratus Tech** (Jun 2021 – Oct 2024)
+- Developed and maintained automation scripts to improve test coverage and reduce regression time
 - Designed and executed functional test cases to validate end-to-end system workflows
 - Configured PolicyCenter for Personal Auto Line, implementing PCFs, validation rules, and business logic  
 - Supported UAT by troubleshooting issues and collaborating with business analysts for requirement alignment  
