@@ -27,7 +27,7 @@ We build tools that help insurers move faster with **real-time analytics** and *
 - AI-powered analytics for predictive decision-making  
 - Mobile-first platforms for agents and customers  
 
-🌐 [Visit Moxwell](https://your-moxwell-link.com)  
+🌐 [Visit Moxwell]([https://your-moxwell-link.com](https://www.moxwell.ca/))  
 
 ---
 
