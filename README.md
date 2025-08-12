@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ramanadh Reddy  
-**Guidewire Config Specialist | Aspiring Data Analyst | Hybrid BA Experience | Co-Founder at Moxwell**  
+**Guidewire Configuration Specialist | Aspiring Data Analyst | Hybrid BA Experience | Co-Founder at Moxwell**  
 
 📍 **Toronto, Canada**  
 💼 **Actively Seeking:** Data Analyst / QA / BA roles  
