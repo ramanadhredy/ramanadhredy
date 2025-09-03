@@ -19,13 +19,13 @@
 ## 🏢 My Startup – Moxwell
 **Co-Founder | Smart Insurance. Real Impact.**  
 
-Moxwell is reimagining insurance through **mobile-first**, **cloud-native**, and **AI-ready** solutions.  
-We build tools that help insurers move faster with **real-time analytics** and **seamless integrations**.  
+Moxwell is reimagining insurance through **AI solutions designed for speed, clarity, and trust**.  
+We build plug-and-play tools that help mid-size insurers and brokers resolve claims faster, detect fraud, and keep policyholders informed with real-time, plain-language updates.  
 
 🔹 **Focus Areas:**  
-- Cloud-native architecture for scalability  
-- AI-powered analytics for predictive decision-making  
-- Mobile-first platforms for agents and customers  
+- **AI Claims Assistant** → Fraud detection, instant summaries, and automated letters integrated into existing workflows.
+- **CX AI Transparency** → Clear, real-time updates across chat and voice, improving trust and retention.
+- **Practical AI Adoption** → Affordable, cloud-native, mobile-first deployment with no heavy enterprise overhead  
 
 🌐 [Visit Moxwell](https://www.moxwell.ca/)  
 
