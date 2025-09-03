@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Ramanadh Reddy  
 **Guidewire Configuration Specialist | Aspiring Computer Scientist | Gen AI & Data Analytics | Co-Founder at Moxwell**  
 
-📍 **Toronto, Canada**  
-💼 **Actively Seeking:** Data Analyst / QA / BA roles  
+📍 **Toronto, Canada**    
 ✉️ **Email:** ramanadhredy3@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/ramaramu](https://www.linkedin.com/in/ramaramu)  
 
